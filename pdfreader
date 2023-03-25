@@ -1,0 +1,31 @@
+import pdfplumber
+
+#with pdfplumber.open("/home/annaso/Downloads/P5_ALLROLL_PRT.pdf") as pdf:
+#first_page = pdf.pages[0]
+#print(pdf.pages.)
+#print(first_page.extract_text())
+
+allmarks = []
+count = 1
+max = 0
+file = "/home/annaso/Downloads/files/P5_ALLROLL_PRT.pdf"
+with pdfplumber.open(file) as pdf:
+    pages = pdf.pages
+    for page in pdf.pages:
+        text = page.extract_text()
+        for line in text.split('\n'):
+            last = line.rsplit(' ', 1)[-1]
+            #print(line)
+            if last.isdigit():
+                mark = int(last)
+                if mark > 90 and mark < 200:
+                    if max < mark:
+                        max = mark
+                    count = count + 1
+                    print(count)
+                    #allmarks.append(mark)
+                #print(last)
+    print("ended")
+    print(count)
+    print("max")
+    print(max)
