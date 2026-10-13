@@ -2,12 +2,12 @@
 
 **What are the employee’s strengths?**
 
-Monica demonstrated strong knowledge of the NAS drive setup process and an ability to explain it clearly. While I was working on the BCN and Cust file automation, Monica walked me through the requirements and setup steps for storing files on the shared drive. As I was unfamiliar with the process, this guidance helped me understand what was needed and successfully complete the setup.
+You are approachable and collaborative in our day-to-day interactions. Whenever I face an issue, I appreciate your willingness to discuss it, share your perspective, and work together toward a solution. Your support helps me work through challenges and move tasks forward.
 
 **What are the employee’s development areas?**
 
-No specific development areas to highlight based on this collaboration.
+I don’t have any specific development areas to highlight based on our interactions.
 
 **Do you have other general feedback to share?**
 
-Thank you, Monica, for your support and willingness to share your knowledge. Your guidance helped us complete the NAS drive setup and take the automation changes live. I appreciate your help throughout the process.
+Thank you for your ongoing support and teamwork. I value our discussions and the opportunity to learn from each other as we work through everyday challenges. I look forward to continuing our collaboration.
