@@ -1,13 +1,12 @@
 # LogicBuilding-Assignments
 
-**What are the employee’s strengths?**
 
-You are approachable and collaborative in our day-to-day interactions. Whenever I face an issue, I appreciate your willingness to discuss it, share your perspective, and work together toward a solution. Your support helps me work through challenges and move tasks forward.
 
-**What are the employee’s development areas?**
+We have completed the SSA changes and would like to test them locally while we wait for the UAT SFTP connection details.
 
-I don’t have any specific development areas to highlight based on our interactions.
+As we cannot email external recipients directly, could you please ask the Euronext team to share some sample files? This would allow us to proceed with local testing in the meantime.
 
-**Do you have other general feedback to share?**
+Thank you for your help.
 
-Thank you for your ongoing support and teamwork. I value our discussions and the opportunity to learn from each other as we work through everyday challenges. I look forward to continuing our collaboration.
+Best regards,
+[Your Name]
