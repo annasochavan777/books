@@ -1,12 +1,1 @@
-# LogicBuilding-Assignments
-
-
-
-We have completed the SSA changes and would like to test them locally while we wait for the UAT SFTP connection details.
-
-As we cannot email external recipients directly, could you please ask the Euronext team to share some sample files? This would allow us to proceed with local testing in the meantime.
-
-Thank you for your help.
-
-Best regards,
-[Your Name]
+Subject: External Sender Validation for Email Processing Hi team, After we configured the external email ID as a valid recipient, messages from the external sender were processed successfully. However, a few emails listed below were not processed because those sender addresses are not recognized as valid. Could you please review the email addresses below and let me know if we should configure Could you please review the email addresses below and let me know if we should configure them as valid senders as well?
