@@ -10,3 +10,5 @@ Overall, the sprint went well from a development perspective. The main blockers 
 
 That’s all from my side.”
 
+What went well: SSFL questions were resolved, code changes are done, and three production issues are fixed and validated in dev. Also, I investigated the GBNP and P4 discrepancy, found the root cause, and asked for a ticket to prioritize it. What didn’t go well: SFTP connectivity and UAT are still pending, which blocks end-to-end testing.” 
+
