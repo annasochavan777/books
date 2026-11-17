@@ -1,14 +1,29 @@
-During this sprint, I worked on SSFL file processing and three production issues.
+Sprint Overview
 
-For SSFL processing, we received answers to all outstanding questions, and I have implemented the required code changes. However, testing is currently blocked by SFTP connectivity.
+This sprint was shorter than usual due to the holidays.
 
-Apart from that, I worked on three production issues: blank enrichment data for block children, incorrect cash account details in P4s, and a race condition in self-enrichment. All three issues have been fixed and validated in the development environment. Only UAT testing is pending.
+I completed the database changes required for Semantics Kiwi file ingestion under reason code MMRI204. Since the scope was limited to database updates, I was able to complete the work quickly.
 
-Additionally, yesterday Rory assigned me a production issue related to discrepancies in the GBNP and P4 reconciliation report. I investigated the issue, identified the root cause, and requested that a ticket be raised so we can prioritize the fix in an upcoming sprint.
+For the Trade Capture Report and SSI file processing, the development work was already ready, but further progress depended on the proxy configuration. The proxy setup was completed in the middle of last week.
 
-Overall, the sprint went well from a development perspective. The main blockers were SFTP connectivity and pending UAT testing.
+Yesterday, I made the required File Manager changes and deployed them to UAT. However, due to environment-related issues, I couldn’t complete the connectivity testing.
 
-That’s all from my side.”
+As a result, I will need to create a ticket for the next sprint to complete the connectivity testing and perform end-to-end testing of the Trade Capture Report and SSI file processing.
 
-What went well: SSFL questions were resolved, code changes are done, and three production issues are fixed and validated in dev. Also, I investigated the GBNP and P4 discrepancy, found the root cause, and asked for a ticket to prioritize it. What didn’t go well: SFTP connectivity and UAT are still pending, which blocks end-to-end testing.” 
+What Went Well
 
+* I completed the required database changes quickly, as the scope was limited to database updates.
+* I completed the necessary File Manager changes and successfully deployed them to UAT.
+* I identified the environment-related issues that were preventing connectivity testing.
+
+What Didn’t Go Well
+
+* Due to environment-related issues, I couldn’t complete the connectivity testing within this sprint.
+* As a result, end-to-end testing for the Trade Capture Report and SSI file processing is still pending.
+* Although the development work and UAT deployment were completed, the environment-related issues prevented me from progressing with testing as planned.
+
+Action Items for Next Sprint
+
+* Follow up on resolving the environment-related connectivity issues.
+* Complete the pending connectivity testing.
+* Perform end-to-end testing for the Trade Capture Report and SSI file processing.
